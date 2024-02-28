@@ -2,4 +2,4 @@ Hi! This is my profile page on Github. I am split between Gitlab and Github at t
 
 😄
 
-Check out [my blog](https://www.jackchampagne.com/) for more information about me!
+Check out [my blog](https://www.jackchampagne.com/) to see my ramblings on Rust, low-level systems, abstract algebra, fun facts, and some homelabbing 
